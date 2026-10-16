@@ -15,7 +15,7 @@ ticket reservation service where many users compete for the same seats.
 | --- | --- |
 | backend-lab *(private for now)* | Load and correctness testing for my own backends: deterministic runs, open/closed load models, realistic user journeys, AI-proposed scenarios. |
 | [Apartment fee tracker](https://github.com/melihAkn/MelihAkinci_webTabanliAidatTakipSistemi) | ASP.NET Core + MySQL. Measured with backend-lab, two bugs found and fixed with before/after results. |
-| [Kumbi](https://github.com/melihAkn/Kumbi-AI-Expense-Tracker) | AI expense tracker on [Google Play](https://play.google.com/store/apps/details?id=com.birik.app). .NET API + Expo app. |
+| [Kumbi](https://github.com/melihAkn/Kumbi-AI-Expense-Tracker) | AI expense tracker, published on [Google Play](https://play.google.com/store/apps/details?id=com.birik.app), development stopped. .NET API + Expo app, built with AI assistance; architecture and product decisions are mine. |
 | [CompBus](https://github.com/melihAkn/CompBus) | Bus ticket listing with CefSharp scraping, seat selection and iyzico payment. |
 
 #### Stack
